@@ -1,0 +1,11 @@
+.main-button {
+  background-color: var(--redish) !important;
+  color: #fff !important;
+  outline: none;
+}
+
+.main-button:hover {
+  background-color: var(--blackish) !important;
+  color: #fff;
+  transition: 1s;
+}

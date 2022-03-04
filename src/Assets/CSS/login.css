@@ -1,0 +1,11 @@
+.login {
+  height: 100vh;
+}
+
+.heading {
+  color: var(--blackish);
+}
+
+.login-section {
+  box-shadow: 0 0 10px var(--greyish);
+}
